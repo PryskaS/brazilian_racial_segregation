@@ -8,6 +8,25 @@
 
 -------------------------------------
 
+### Estrutura do projeto
+
+    ├── LICENSE                    
+    ├── README.md                  <- Principal documentação do projeto com informações gerais para manipular o repositório.
+    ├── data
+    │   ├── figures                <- Visualizações (mapas, figuras, imagens)
+    │   ├── output                 <- Dados processados e prontos
+    │   ├── treated                <- Dados pré-processados, limpos, tratados e organizados
+    │   └── raw                    <- Dados originais
+    ├── documents
+    │   ├── articles               <- Dados processados e prontos
+    │   ├── references             <- Dados pré-processados, limpos, tratados e organizados
+    │   └── reports                <- Dados originais
+    ├── notebooks                  <- Jupyter notebooks(.ipynb) (Python)
+    ├── scripts                    <- Arquivos python(.py), SPSS Syntax (.sps, .sas), arquivos R (.R, .Rproj)
+    ├── requirements.txt           <- Requisições de pacotes para usar rodar os scripts na máquina local (Python)
+
+-------------------------------------
+
 ### Equipe: 
 - Autora: [Priscila Santos](https://www.linkedin.com/in/priscila-santoss/) 
 - Orientadora e coautora: [Flávia F. Feitosa](https://flaviafeitosa.wordpress.com/)
