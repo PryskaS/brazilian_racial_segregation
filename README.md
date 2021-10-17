@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/PryskaS/brazilian_racial_segregation/blob/main/data/figures/Gate%20-%20logo%201%20vert.png" alt="logo" width="240"> 
+<img align="right" src="https://github.com/PryskaS/brazilian_racial_segregation/blob/main/data/figures/Gate%20-%20logo%201%20vert.png" alt="logo" width="440"> 
 
 # Segregação residencial racial: Padrões de isolamento e exposição
 
