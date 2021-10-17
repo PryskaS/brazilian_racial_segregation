@@ -4,6 +4,7 @@
 
 
 <p align="justify">Esse repositório refere-se a um projeto de pesquisa que busca entender e caracterizar os padrões de isolamento e explosição da segregação espacial de grupos raciais separado por diferentes faixas de renda em metrópoles brasileiras. Foram analisados os grupos negros e brancos, de cinco faixas de renda classificadas entre A e E, na metrópoles de São Paulo, Rio de Janeiro, Belo Horizonte, Recife e Porto Alegre.</p> 
+
 -------------------------------------
 
 ### Equipe: 
